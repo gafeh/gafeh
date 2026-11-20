@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Success%20Afeh&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Backend%20%26%20LLM%20Infrastructure%20Engineer&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://github.com/gafeh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+systems+and+the+LLM+infra+on+top+of+them;Eval+harnesses+%7C+agentic+tool-calling+%7C+retrieval;Systems+Engineering+%40+University+of+Lagos;Building+from+Lagos%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+systems+and+the+LLM+infra+on+top+of+them;Eval+harnesses+%7C+agentic+tool-calling+%7C+retrieval;%F0%9F%87%B3%F0%9F%87%AC" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="mailto:successthecodess@gmail.com"><img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:flynneofficial@gmail.com"><img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 <a href="https://github.com/gafeh?tab=repositories"><img src="https://img.shields.io/badge/Projects-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
