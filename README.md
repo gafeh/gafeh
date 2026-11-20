@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gafeh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb&icon_color=2563eb" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gafeh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb" />
 
 <img src="https://streak-stats.demolab.com?user=gafeh&theme=tokyonight&hide_border=true&background=0D1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" height="165" />
