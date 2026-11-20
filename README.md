@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Success%20Afeh&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Backend%20%26%20LLM%20Infrastructure%20Engineer&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://github.com/gafeh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+systems+and+the+LLM+infra+on+top+of+them;Eval+harnesses+%7C+agentic+tool-calling+%7C+retrieval;%F0%9F%87%B3%F0%9F%87%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+systems+and+the+LLM+infra+on+top+of+them;Eval+harnesses+%7C+agentic+tool-calling+%7C+retrieval;" alt="Typing SVG" />
 </a>
 
 <br/>
