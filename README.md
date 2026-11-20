@@ -31,7 +31,7 @@
 | [**ember**](https://github.com/gafeh/ember) | HTTP server written from the socket up: request parsing, keep-alive, concurrency, no framework | Python |
 | [**talentops**](https://github.com/gafeh/talentops) | Recruiting operations platform, from sourcing through pipeline tracking | TypeScript, Next.js |
 | [**rwazi-outbound-engine**](https://github.com/gafeh/rwazi-outbound-engine) | Outbound GTM engine built and shipped for Rwazi: enrichment, scoring, sequencing | Python |
-| [**employee-attendance**](https://github.com/gafeh/employee-attendance) | Attendance system in production at a Lagos school | TypeScript |
+
 
 ## Tech stack
 
